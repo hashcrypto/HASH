@@ -1,0 +1,17 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ca">locale/hash_ca.qm</file>
+        <file alias="da">locale/hash_da.qm</file>
+        <file alias="de">locale/hash_de.qm</file>
+        <file alias="en">locale/hash_en.qm</file>
+        <file alias="en_US">locale/hash_en_US.qm</file>
+        <file alias="es">locale/hash_es.qm</file>
+        <file alias="fr_FR">locale/hash_fr_FR.qm</file>
+        <file alias="it">locale/hash_it.qm</file>
+        <file alias="ja">locale/hash_ja.qm</file>
+        <file alias="pt">locale/hash_pt.qm</file>
+        <file alias="ro_RO">locale/hash_ro_RO.qm</file>
+        <file alias="ru">locale/hash_ru.qm</file>
+        <file alias="zh_TW">locale/hash_zh_TW.qm</file>
+    </qresource>
+</RCC>

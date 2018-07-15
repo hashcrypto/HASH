@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Hash
+Comment=Hash P2P Cryptocurrency
+Comment[fr]=Hash, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Hash, eşten eşe kriptografik sanal para birimi
+Exec=hash-qt %u
+Terminal=false
+Type=Application
+Icon=hash128
+MimeType=x-scheme-handler/hash;
+Categories=Office;Finance;
